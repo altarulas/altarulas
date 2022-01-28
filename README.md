@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Altar</h1>
 <h3 align="center">Junior Backend Developer</h3>
 
+- 📫 How to reach me **altarulas66@gmail.com**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=altarulas&label=Profile%20views&color=0e75b6&style=flat" alt="altarulas" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=altarulas" alt="altarulas" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me **altarulas66@gmail.com**
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=altarulas&theme=radical) 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
