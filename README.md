@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo8561
-Fork on GitHub1878
 <h1 align="center">Hi 👋, I'm Altar</h1>
 <h3 align="center">Junior Developer</h3>
 
