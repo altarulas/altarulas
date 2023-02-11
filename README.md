@@ -3,9 +3,6 @@
 
 <h3 align="center">📫 How to reach me: altarulas66@gmail.com</h3>
 
-<h3 align="center">Hackerrank: <a href="https://www.hackerrank.com/altarulas09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="altarulas09" height="30" width="40" /></a> </h3>
-
-
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">  
