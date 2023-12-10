@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Altar</h1>
-<h2 align="center">I'm Junior Developer</h2>
+<h2 align="center">I'm Frontend Developer</h2>
 
 <h3 align="center">📫 How to reach me: altarulas66@gmail.com</h3>
 
